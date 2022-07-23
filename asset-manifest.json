@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/dex-v1/static/css/main.ee4d5104.css",
+    "main.js": "/dex-v1/static/js/main.7474c04b.js",
+    "index.html": "/dex-v1/index.html",
+    "static/media/xmark-solid.svg": "/dex-v1/static/media/xmark-solid.6837248f26b4746bca22dce7c606b744.svg",
+    "main.ee4d5104.css.map": "/dex-v1/static/css/main.ee4d5104.css.map",
+    "main.7474c04b.js.map": "/dex-v1/static/js/main.7474c04b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ee4d5104.css",
+    "static/js/main.7474c04b.js"
+  ]
+}
