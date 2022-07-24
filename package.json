@@ -1,6 +1,6 @@
 {
-  "homepage": "http://Mfried95.github.io/dex-v1/",
-  "name": "crypto-dex-v3",
+  "start_url": "/home",
+  "homepage": "/home",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
