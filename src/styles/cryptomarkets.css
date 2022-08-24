@@ -65,7 +65,7 @@ span.market_rank{
 /*  Popup card styling   */
 
 .popup-card{
-    width: 100%;
+    width: 24.5em;
     height: 20em;
     background-color: white;
     border-radius: 1rem;
@@ -170,5 +170,9 @@ img{
         padding: 0;
         margin: 0;
     }
-
+	
+	.popup-card{
+        width: 50em;
+    }
+	
 }
